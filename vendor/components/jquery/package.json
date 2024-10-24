@@ -28,6 +28,8 @@
     ],
     "spm": {
         "main": "jquery.js"
+    },
+    "dependencies": {
+        "jquery": "file:"
     }
 }
-
